@@ -194,7 +194,7 @@ Client：创建**grpcClient对象（给出服务ip+port地址）**，用grpcClie
 
 
 
-![Screen Shot 2022-05-29 at 14.24.39](./assets/Screen Shot 2022-05-29 at 14.24.39.png)
+<img src="./assets/Screen Shot 2022-05-29 at 14.24.39.png" alt="Screen Shot 2022-05-29 at 14.24.21" style="zoom:50%;" />
 
 ### 第一步：写IDL文件
 
