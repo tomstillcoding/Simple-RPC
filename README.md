@@ -22,7 +22,7 @@
 
 # 介绍RPC
 
-<img src="../assets/31-手撸一个RPC.assets/Screen Shot 2022-05-29 at 14.24.21-3816076.png" alt="Screen Shot 2022-05-29 at 14.24.21" style="zoom:50%;" />
+<img src="./assets/31-手撸一个RPC.assets/Screen Shot 2022-05-29 at 14.24.21-3816076.png" alt="Screen Shot 2022-05-29 at 14.24.21" style="zoom:50%;" />
 
 # gRPC使用
 
